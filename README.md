@@ -9,6 +9,7 @@
 7. [Custom Hooks for handling form ](https://github.com/m-soro/ReactCustomHook) - from LinkedIn Learning
 8. [Controlled form useState](https://github.com/m-soro/ReactControlledFormUseState)- from LinkedIn Learning
 9. [Fetch Data with useEffect and useState](https://github.com/m-soro/ReactFetchDataWithHooks) - from LinkedIn Learning
+10. [Handling Loading States with useState](https://github.com/m-soro/ReactHandlingLoadingStates) - from LinkedIn Learning
 
 
 ---

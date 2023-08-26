@@ -11,6 +11,7 @@
 9. [Fetch Data with useEffect and useState](https://github.com/m-soro/ReactFetchDataWithHooks) - from LinkedIn Learning
 10. [Handling Loading States with useState](https://github.com/m-soro/ReactHandlingLoadingStates) - from LinkedIn Learning
 11. [Fetch data from graphql endpoint](https://github.com/m-soro/ReactFetchDataGraphQL)- from LinkedIn Learning
+12. [Rendering Data using Functions](https://github.com/m-soro/ReactRenderPropsUsingFunctions) -from LinkedIn Learning
 
 
 ---
